@@ -1,2 +1,2 @@
 # zach-b-lighting.gitbhub.io
-<iframe src="{{ '/resume.pdf' | relative_url }}" width="100%" height="800" style="border:0"></iframe>
+!(https://github.com/zach-b-lighting/zach-b-lighting.gitbhub.io/blob/ca56753af54b9a456e9cea9668b8ef939b27a740/resume.pdf)
